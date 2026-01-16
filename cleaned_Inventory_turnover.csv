@@ -1,0 +1,13 @@
+product_id,product_name,category,warehouse,month,opening_stock,units_sold,closing_stock,unit_cost,unit_price,average_inventory,blocked_value
+P201,LED TV,Electronics,Chennai,Jan,150,45,105,22000,28000,202.5,2310000
+P202,Smartphone,Electronics,Bangalore,Jan,300,210,90,15000,20000,345.0,1350000
+P203,Office Chair,Furniture,Chennai,Jan,120,25,95,3500,5500,167.5,332500
+P204,Notebook,Stationery,Hyderabad,Jan,800,600,200,30,55,900.0,6000
+P205,Refrigerator,Electronics,Bangalore,Jan,80,12,68,25000,32000,114.0,1700000
+P201,LED TV,Electronics,Chennai,Feb,105,35,70,22000,28000,140.0,1540000
+P202,Smartphone,Electronics,Bangalore,Feb,90,80,10,15000,20000,95.0,150000
+P203,Office Chair,Furniture,Chennai,Feb,95,30,65,3500,5500,127.5,227500
+P204,Notebook,Stationery,Hyderabad,Feb,200,180,20,30,55,210.0,600
+P205,Refrigerator,Electronics,Bangalore,Feb,68,10,58,25000,32000,97.0,1450000
+P206,Desk Lamp,Furniture,Hyderabad,Feb,180,110,70,800,1400,215.0,56000
+P207,Printer,Electronics,Chennai,Feb,60,8,52,9000,14000,86.0,468000
